@@ -2,6 +2,7 @@
 
 This project uses the `google/gemma-1.1-7b-it` model to generate structured SOAP clinical notes from doctor–patient conversations. 
 You can paste a transcript or upload a `.txt`/`.docx` file and get a formatted note plus safety flags and a downloadable PDF.
+
 ---*
 
 ## Project Structure
@@ -13,6 +14,8 @@ medgemma-project/
 │   ├── constants.py      # System prompt + example conversations
 │   ├── model.py          # Model loading + text generation
 │   └── utils.py          # File handling, PDF generation, app logic
+Note:
+The Kaggle notebook is also uploaded in the src repository
 ├── app/
 │   ├── __init__.py
 │   └── app.py            # Gradio UI
@@ -23,3 +26,5 @@ medgemma-project/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+
+
