@@ -1,0 +1,45 @@
+Full Information
+1. Chest pain – possible ACS
+Doctor: What brings you in today?
+Patient: I've had chest tightness for two days, worse when I walk.
+Doctor: Any history of heart problems?
+Patient: I have high blood pressure and take amlodipine 5 mg daily.
+Doctor: Blood pressure is 145/90, heart rate 88, oxygen saturation 97%.
+Doctor: I'm ordering an EKG and troponin levels.
+
+2. Heart failure follow-up
+Doctor: How has your breathing been?
+Patient: I get short of breath when climbing stairs and my legs are swollen.
+Doctor: Are you taking your medications?
+Patient: Yes, furosemide 40 mg daily.
+Doctor: Your weight has increased by 3 kg since last visit.
+
+Partial Information
+1. Atrial fibrillation
+Doctor: What symptoms are you having?
+Patient: My heart feels like it's racing and irregular.
+Doctor: Any dizziness?
+Patient: Yes, since this morning.
+Doctor: Heart rate is 132 and irregular.
+
+2. Community-acquired pneumonia
+Doctor: Tell me your symptoms.
+Patient: Fever, cough with yellow sputum, and shortness of breath for 5 days.
+Doctor: Temperature is 101.5°F. I hear crackles in the right lung.
+Doctor: I'll start azithromycin.
+
+3. Asthma exacerbation
+Doctor: What happened today?
+Patient: I had wheezing and used my inhaler four times.
+Doctor: Oxygen saturation is 94%.
+Patient: I ran out of my controller inhaler last week.
+
+4.COPD follow-up
+Doctor: How is your breathing?
+Patient: Worse than usual and more coughing.
+Doctor: Are you still smoking?
+Patient: No, I quit 3 months ago.
+Doctor: You're using tiotropium daily.
+
+
+
