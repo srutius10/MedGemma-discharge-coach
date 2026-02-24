@@ -2,7 +2,7 @@
 
 This project uses the `google/gemma-1.1-7b-it` model to generate structured SOAP clinical notes from doctor–patient conversations. 
 You can paste a transcript or upload a `.txt`/`.docx` file and get a formatted note plus safety flags and a downloadable PDF.
----
+---*
 
 ## Project Structure
 
