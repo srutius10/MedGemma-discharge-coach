@@ -15,7 +15,7 @@ medgemma-project/
 │   ├── model.py          # Model loading + text generation
 │   └── utils.py          # File handling, PDF generation, app logic
 Note:
-The Kaggle notebook is also uploaded in the src repository
+The Kaggle notebook named as Final-Medgemma-Code-Submission.ipynb is also uploaded in the src repository
 ├── app/
 │   ├── __init__.py
 │   └── app.py            # Gradio UI
@@ -28,3 +28,4 @@ The Kaggle notebook is also uploaded in the src repository
 └── LICENSE
 
 
+Note: I have used the Kaggle notebook to do this project
